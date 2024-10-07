@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1728232464 source:c:\users\laptop legend\desktop\c++ lab\lab5\167. task2\main.cpp
+	<iostream>
+	"employee.h"
+
+1728232464 c:\users\laptop legend\desktop\c++ lab\lab5\167. task2\include\employee.h
+	<string>
+
+1728232464 source:c:\users\laptop legend\desktop\c++ lab\lab5\167. task2\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<sstream>
+
